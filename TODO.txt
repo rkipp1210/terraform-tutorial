@@ -1,0 +1,7 @@
+[x] Create an EC2 instance on AWS
+[x] Give you instance a tag name in the format "YOUR_NAME's Test Terraform Server"
+[x] Assign that instance an Elastic IP
+[x] Assign that instance a keypair
+[x] Assign that instance a Security Group
+[x] SSH into the instance
+[x] Resize the instance
